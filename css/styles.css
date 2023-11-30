@@ -1,2 +1,30 @@
+/* #region Base styles */
 body {
+  color: var(--NAVY-BLUE, #2e2f42);
+  background-color: #fff;
 }
+/* #endregion */
+/* #region Header */
+.header {
+}
+.header-nav {
+}
+.header-logo {
+}
+.logo-dark {
+}
+.header-nav-list {
+}
+.header-nav-item {
+}
+.nav-link {
+}
+.header-address {
+}
+.heder-list-address {
+}
+.header-address-item {
+}
+.address-link {
+}
+/* #endregion */
