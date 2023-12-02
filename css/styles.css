@@ -1,7 +1,7 @@
 /* Base styles */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #2e2f42;
+  color: #434455;
   background-color: #fff;
 }
 ul {
@@ -39,7 +39,7 @@ button {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -60,6 +60,7 @@ button {
   color: #404bbf;
 }
 .header-address {
+  font-style: normal;
 }
 .heder-list-address {
 }
@@ -69,7 +70,6 @@ button {
   color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
 }
 .address-link:hover,
 .address-link:focus {
@@ -89,7 +89,7 @@ button {
   letter-spacing: 0.02em;
 }
 .hero-btn {
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   color: #fff;
   font-weight: 500;
   line-height: 1.5;
@@ -152,6 +152,7 @@ button {
 .portfolio-title {
 }
 .portfolio-list {
+  background-color: #ffffff;
 }
 .portfolio-item {
 }
@@ -178,7 +179,7 @@ button {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
